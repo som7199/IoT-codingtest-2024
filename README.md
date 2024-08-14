@@ -45,8 +45,8 @@ IoT 개발자 과정 알고리즘 고급(코딩 테스트) 학습 리포지토�
         - C , C++ 어려움
 
 - 코딩테스트 학습
-    - [x] [복잡도]()
-    - [x] [그리디]()
+    - [x] [복잡도](https://github.com/som7199/IoT-codingtest-2024/blob/main/day01/ct001_complexity.ipynb)
+    - [x] [그리디](https://github.com/som7199/IoT-codingtest-2024/blob/main/day01/ct002_greedy.ipynb)
 
 ## 2일차
 - 코딩테스트 학습
