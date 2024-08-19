@@ -50,11 +50,12 @@ IoT 개발자 과정 알고리즘 고급(코딩 테스트) 학습 리포지토�
 
 ## 2일차
 - 코딩테스트 학습
-    - [x] [구현]()
+    - [x] [구현](https://github.com/som7199/IoT-codingtest-2024/blob/main/day02/ct003_implement.ipynb)
 
 ## 3일차
 - 코딩테스트 학습
-    - [ ] [DFS]()
-    - [ ] [BFS]()
+    - [x] [DFS/BFS](https://github.com/som7199/IoT-codingtest-2024/blob/main/day03/ct004_dfs_bfs.ipynb)
+
+## 4일차
     - [ ] [DP]()
     - [ ] [Graph]()
